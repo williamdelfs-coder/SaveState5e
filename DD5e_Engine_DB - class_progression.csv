@@ -1,0 +1,330 @@
+class,level,feature_name,feature_type,short_rules,gives_ASI,gives_extra_attack,gives_spell_slots,new_spell_slot_tiers,new_spells_known,new_cantrips_known,notes
+Artificer,1,Magical Tinkering,core_feature,"You can invest tiny objects with minor magical effects, like light, recorded messages, or visual symbols, using your tools as a focus.",no,no,no,,,,
+Artificer,1,Spellcasting,core_feature,"You learn to cast artificer spells using Intelligence, with a small number of 1st-level spell slots and cantrips.",no,no,yes,Gain 1st-level artificer spell slots (half-caster progression).,Learn several 1st-level artificer spells from the class list.,2,
+Artificer,2,Infuse Item,core_feature,You learn magical infusions that let you turn mundane objects into temporary magic items after a rest.,no,no,no,,,,You know a limited number of infusions and can have only a few items infused at once.
+Artificer,3,Artificer Specialist,subclass_feature,"You choose a specialization such as alchemist, artillerist, or battle smith, gaining new features and bonus spells.",no,no,no,,,,
+Artificer,3,The Right Tool for the Job,core_feature,"With your tools and an hour of work, you can conjure the exact artisan's tools you need for the task at hand.",no,no,no,,,,
+Artificer,4,Ability Score Improvement,ASI,"Increase one ability by 2 or two abilities by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Artificer,5,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 2nd-level artificer spell slots and more total slots.",no,no,yes,Gain 2nd-level artificer spell slots.,,,
+Artificer,6,Tool Expertise,core_feature,Your proficiency bonus is doubled for any ability check that uses a tool you are proficient with.,no,no,no,,,,
+Artificer,7,Flash of Genius,core_feature,"When you or a nearby creature makes an ability check or saving throw, you can use your reaction to add your Intelligence modifier to the roll a limited number of times per day.",no,no,no,,,,
+Artificer,8,Ability Score Improvement,ASI,"Increase one ability by 2 or two abilities by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Artificer,9,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 3rd-level artificer spell slots and more total slots.",no,no,yes,Gain 3rd-level artificer spell slots.,,,
+Artificer,10,Magic Item Adept,core_feature,You can attune to more magic items than usual and craft common or uncommon items faster and cheaper than other characters.,no,no,no,,,,Typically raises your attunement limit by 1 and improves crafting efficiency.
+Artificer,11,Spell-Storing Item,core_feature,"You can store a low-level artificer spell in a weapon or focus, allowing it to be cast repeatedly from that item using your spellcasting ability.",no,no,no,,,,Uses your Intelligence and can hold many charges based on your modifier.
+Artificer,12,Ability Score Improvement,ASI,"Increase one ability by 2 or two abilities by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Artificer,13,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 4th-level artificer spell slots and more total slots.",no,no,yes,Gain 4th-level artificer spell slots.,,,
+Artificer,14,Magic Item Savant,core_feature,"Your command of magic items deepens: you can attune to more items and ignore many class, race, or level restrictions on using them.",no,no,no,,,,Often lets you attune to an additional magic item and bypass restrictions on item use.
+Artificer,15,Artificer Specialist Feature (Level 15),subclass_feature,You gain the 15th-level feature from your chosen artificer specialization.,no,no,no,,,,
+Artificer,16,Ability Score Improvement,ASI,"Increase one ability by 2 or two abilities by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Artificer,17,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 5th-level artificer spell slots and more total slots.",no,no,yes,Gain 5th-level artificer spell slots.,,,
+Artificer,18,Magic Item Master,core_feature,"You reach peak mastery with magic items, attuning to even more of them at once than most adventurers could dream of.",no,no,no,,,,Raises your maximum number of attuned magic items again.
+Artificer,19,Ability Score Improvement,ASI,"Increase one ability by 2 or two abilities by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Artificer,20,Soul of Artifice,core_feature,"Your bond with your infused items toughens your body and spirit, boosting your saving throws and letting you sacrifice infusions to cling to life instead of falling in battle.",no,no,no,,,,Capstone that adds bonuses per attuned item and lets you drop to 1 HP instead of 0 by ending an infusion.
+Barbarian,1,Rage,core_feature,"Enter a battle frenzy a limited number of times per day, gaining bonus damage and resistance to common physical damage while it lasts.",no,no,no,,,,Use the SRD barbarian table for exact rage damage bonus and uses per long rest.
+Barbarian,1,Unarmored Defense,core_feature,"While you are not wearing armor, your armor class is 10 plus your Dexterity modifier plus your Constitution modifier.",no,no,no,,,,
+Barbarian,2,Reckless Attack,core_feature,"When you make your first melee attack on your turn using Strength, you can choose to swing recklessly, gaining advantage on those attacks but granting advantage to attacks made against you until your next turn.",no,no,no,,,,
+Barbarian,2,Danger Sense,core_feature,"You gain an instinct for danger, giving you advantage on Dexterity saving throws against effects you can see, such as many traps and spells.",no,no,no,,,,"You must not be blinded, deafened, or incapacitated."
+Barbarian,3,Primal Path,subclass_feature,Choose a primal path that shapes your rage; it grants extra features at higher barbarian levels.,no,no,no,,,,Refer to your chosen path for its specific features.
+Barbarian,4,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1 each, or take a feat if your campaign uses feats.",yes,no,no,,,,
+Barbarian,5,Extra Attack,core_feature,"When you take the Attack action on your turn, you can make two weapon attacks instead of just one.",no,yes,no,,,,
+Barbarian,5,Fast Movement,core_feature,Your walking speed increases while you are not wearing heavy armor.,no,no,no,,,,Use the SRD barbarian table for the amount of the speed bonus.
+Barbarian,6,Path Feature (Level 6),subclass_feature,You gain the 6th-level feature from your chosen primal path.,no,no,no,,,,Details depend on your selected path.
+Barbarian,7,Feral Instinct,core_feature,"Your instincts sharpen, granting you advantage on initiative rolls and letting you act normally on your first turn if you rage when surprised.",no,no,no,,,,You must enter a rage before doing anything else on that first turn while surprised.
+Barbarian,8,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1 each, or take a feat if your campaign uses feats.",yes,no,no,,,,
+Barbarian,9,Brutal Critical (1 Die),core_feature,Your critical hits with Strength-based melee attacks hit harder; you roll one extra weapon damage die when determining the damage of such a critical.,no,no,no,,,,This adds to the normal extra damage dice for a critical hit.
+Barbarian,10,Path Feature (Level 10),subclass_feature,You gain the 10th-level feature from your chosen primal path.,no,no,no,,,,Details depend on your selected path.
+Barbarian,11,Relentless Rage,core_feature,"Your rage keeps you fighting through grievous injuries; when you would drop to 0 hit points while raging, you can make a save to remain at 1 hit point instead.",no,no,no,,,,The difficulty of this save increases each time you use this feature between rests.
+Barbarian,12,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1 each, or take a feat if your campaign uses feats.",yes,no,no,,,,
+Barbarian,13,Brutal Critical (2 Dice),core_feature,Your Brutal Critical improves; you now roll two extra weapon damage dice when you score a critical hit with a Strength-based melee attack.,no,no,no,,,,Replaces the earlier one-die version.
+Barbarian,14,Path Feature (Level 14),subclass_feature,You gain the 14th-level feature from your chosen primal path.,no,no,no,,,,Details depend on your selected path.
+Barbarian,15,Persistent Rage,core_feature,Your rage is difficult to break; it only ends early if you fall unconscious or choose to stop raging.,no,no,no,,,,You no longer lose rage merely for not attacking or taking damage.
+Barbarian,16,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1 each, or take a feat if your campaign uses feats.",yes,no,no,,,,
+Barbarian,17,Brutal Critical (3 Dice),core_feature,Your Brutal Critical improves again; you now roll three extra weapon damage dice when you score a critical hit with a Strength-based melee attack.,no,no,no,,,,Replaces the earlier two-dice version.
+Barbarian,18,Indomitable Might,core_feature,"Your raw strength can carry you through impossible feats; if the result of a Strength check is lower than your Strength score, you can use your score as the total instead.",no,no,no,,,,"Applies only to Strength ability checks, not attack rolls or saving throws."
+Barbarian,19,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1 each, or take a feat if your campaign uses feats.",yes,no,no,,,,
+Barbarian,20,Primal Champion,core_feature,"Your Strength and Constitution scores each increase by 4, and their maximum values each increase to 24.",no,no,no,,,,Update your ability modifiers and derived stats accordingly.
+Bard,1,Spellcasting,core_feature,You cast bard spells using Charisma and know a few cantrips and 1st-level spells.,no,no,yes,Gain 1st-level spell slots; see bard spell slot table.,Start with several 1st-level spells known.,2,Exact slots and spells known follow the bard spellcasting table.
+Bard,1,Bardic Inspiration (d6),core_feature,Bonus action to give an ally a d6 inspiration die a limited number of times per long rest.,no,no,no,,,,
+Bard,2,Jack of All Trades,core_feature,Add half your proficiency bonus (rounded down) to ability checks that do not already include it.,no,no,no,,,,
+Bard,2,Song of Rest (d6),core_feature,"During a short rest, creatures who hear your performance regain extra d6 healing when they spend Hit Dice.",no,no,no,,,,
+Bard,3,Bard College,subclass_feature,Choose a bard college; gain its level 3 feature or features.,no,no,no,,,,
+Bard,3,Expertise,core_feature,Choose two skill proficiencies; your proficiency bonus is doubled for them.,no,no,no,,,,
+Bard,3,Spellcasting Progression,spell_progression,You gain access to 2nd-level spell slots and additional slots overall.,no,no,yes,Gain 2nd-level spell slots.,+1 or more bard spells known.,,Use bard spellcasting table for exact numbers.
+Bard,4,Ability Score Improvement,ASI,"Increase one ability score by +2 or two scores by +1 each, or take a feat if allowed.",yes,no,no,,,,
+Bard,5,Font of Inspiration,core_feature,Your Bardic Inspiration dice now refresh on a short rest instead of only on a long rest.,no,no,no,,,,
+Bard,5,Bardic Inspiration (d8),core_feature,Your Bardic Inspiration die increases to a d8.,no,no,no,,,,
+Bard,5,Spellcasting Progression,spell_progression,You gain access to 3rd-level spell slots and additional slots overall.,no,no,yes,Gain 3rd-level spell slots.,+1 or more bard spells known.,,
+Bard,6,Countercharm,core_feature,You can use your action to grant allies advantage on saving throws against being frightened or charmed until your next turn.,no,no,no,,,,
+Bard,6,Bard College Feature,subclass_feature,You gain the 6th-level feature from your bard college.,no,no,no,,,,
+Bard,7,Spellcasting Progression,spell_progression,You gain access to 4th-level spell slots and additional slots overall.,no,no,yes,Gain 4th-level spell slots.,+1 or more bard spells known.,,
+Bard,8,Ability Score Improvement,ASI,"Increase one ability score by +2 or two scores by +1 each, or take a feat if allowed.",yes,no,no,,,,
+Bard,9,Song of Rest (d8),core_feature,Your Song of Rest extra healing die increases to a d8.,no,no,no,,,,
+Bard,9,Spellcasting Progression,spell_progression,You gain access to 5th-level spell slots and additional slots overall.,no,no,yes,Gain 5th-level spell slots.,+1 or more bard spells known.,,
+Bard,10,Bardic Inspiration (d10),core_feature,Your Bardic Inspiration die increases to a d10.,no,no,no,,,,
+Bard,10,Expertise (Additional),core_feature,Choose two more skill proficiencies to gain Expertise with.,no,no,no,,,,
+Bard,10,Magical Secrets,core_feature,Learn two spells from any class list that count as bard spells for you.,no,no,no,,Learn 2 spells from any class list.,,Spells must be of a level you can cast.
+Bard,11,Spellcasting Progression,spell_progression,You gain access to 6th-level spell slots and additional slots overall.,no,no,yes,Gain 6th-level spell slots.,+1 or more bard spells known.,,
+Bard,12,Ability Score Improvement,ASI,"Increase one ability score by +2 or two scores by +1 each, or take a feat if allowed.",yes,no,no,,,,
+Bard,13,Song of Rest (d10),core_feature,Your Song of Rest extra healing die increases to a d10.,no,no,no,,,,
+Bard,13,Spellcasting Progression,spell_progression,You gain access to 7th-level spell slots and additional slots overall.,no,no,yes,Gain 7th-level spell slots.,+1 or more bard spells known.,,
+Bard,14,Bard College Feature,subclass_feature,You gain the 14th-level feature from your bard college.,no,no,no,,,,
+Bard,14,Magical Secrets (Additional),core_feature,Learn two more spells from any class list that count as bard spells for you.,no,no,no,,Learn 2 additional off-list spells.,,
+Bard,15,Bardic Inspiration (d12),core_feature,Your Bardic Inspiration die increases to a d12.,no,no,no,,,,
+Bard,15,Spellcasting Progression,spell_progression,You gain access to 8th-level spell slots and additional slots overall.,no,no,yes,Gain 8th-level spell slots.,+1 or more bard spells known.,,
+Bard,16,Ability Score Improvement,ASI,"Increase one ability score by +2 or two scores by +1 each, or take a feat if allowed.",yes,no,no,,,,
+Bard,17,Song of Rest (d12),core_feature,Your Song of Rest extra healing die increases to a d12.,no,no,no,,,,
+Bard,17,Spellcasting Progression,spell_progression,You gain access to 9th-level spell slots and additional slots overall.,no,no,yes,Gain 9th-level spell slots.,+1 or more bard spells known.,,
+Bard,18,Magical Secrets (Additional),core_feature,Learn two more spells from any class list that count as bard spells for you.,no,no,no,,Learn 2 additional off-list spells.,,
+Bard,19,Ability Score Improvement,ASI,"Increase one ability score by +2 or two scores by +1 each, or take a feat if allowed.",yes,no,no,,,,
+Bard,20,Superior Inspiration,core_feature,"When you roll initiative and have no Bardic Inspiration uses left, regain one use.",no,no,no,,,,
+Cleric,1,Spellcasting,core_feature,You cast cleric spells using Wisdom; you know several cantrips and 1st-level spells.,no,no,yes,Gain 1st-level spell slots; see cleric spellcasting table.,Prepare cleric spells each day based on Wisdom and level.,3,Exact slots and preparation rules follow the cleric spellcasting table.
+Cleric,1,Divine Domain,core_feature,Choose a divine domain; it grants extra spells and features at various levels.,no,no,no,,,,
+Cleric,2,Channel Divinity (1/rest),core_feature,You can channel divine energy to fuel special effects; uses recover on a short or long rest.,no,no,no,,,,
+Cleric,2,Channel Divinity: Turn Undead,core_feature,"As an action, present your holy symbol to force nearby undead to flee on a failed save.",no,no,no,,,,Exact save DC and area follow the cleric Channel Divinity rules.
+Cleric,2,Domain Feature (Level 2),subclass_feature,You gain the 2nd-level feature from your divine domain.,no,no,no,,,,The exact feature depends on your chosen domain.
+Cleric,3,Spellcasting Progression,spell_progression,You gain access to 2nd-level spell slots and additional spell slots overall.,no,no,yes,Gain 2nd-level spell slots.,Prepare additional spells as your level and Wisdom increase.,,See cleric spellcasting table for exact slots.
+Cleric,4,Ability Score Improvement,ASI,"Increase one ability score by +2 or two scores by +1 each, or take a feat if allowed.",yes,no,no,,,,
+Cleric,5,Destroy Undead (CR 1/2),core_feature,"When you successfully Turn Undead, undead of challenge rating 1/2 or lower are destroyed instead of turned.",no,no,no,,,,
+Cleric,5,Spellcasting Progression,spell_progression,You gain access to 3rd-level spell slots and additional spell slots overall.,no,no,yes,Gain 3rd-level spell slots.,Prepare additional spells as your level and Wisdom increase.,,
+Cleric,6,Channel Divinity (2/rest),core_feature,You can use Channel Divinity twice between rests.,no,no,no,,,,
+Cleric,6,Domain Feature (Level 6),subclass_feature,You gain the 6th-level feature from your divine domain.,no,no,no,,,,The exact feature depends on your chosen domain.
+Cleric,7,Spellcasting Progression,spell_progression,You gain access to 4th-level spell slots and additional spell slots overall.,no,no,yes,Gain 4th-level spell slots.,Prepare additional spells as your level and Wisdom increase.,,
+Cleric,8,Ability Score Improvement,ASI,"Increase one ability score by +2 or two scores by +1 each, or take a feat if allowed.",yes,no,no,,,,
+Cleric,8,Destroy Undead (CR 1),core_feature,"When you successfully Turn Undead, undead of challenge rating 1 or lower are destroyed instead of turned.",no,no,no,,,,
+Cleric,8,Domain Feature (Level 8),subclass_feature,You gain the 8th-level feature from your divine domain.,no,no,no,,,,The exact feature depends on your chosen domain.
+Cleric,9,Spellcasting Progression,spell_progression,You gain access to 5th-level spell slots and additional spell slots overall.,no,no,yes,Gain 5th-level spell slots.,Prepare additional spells as your level and Wisdom increase.,,
+Cleric,10,Divine Intervention,core_feature,"Once per long rest, you can call upon your deity to intervene; success is based on your cleric level.",no,no,no,,,,"On success, the DM chooses the nature of the intervention; see cleric rules for chance and limits."
+Cleric,11,Destroy Undead (CR 2),core_feature,"When you successfully Turn Undead, undead of challenge rating 2 or lower are destroyed instead of turned.",no,no,no,,,,
+Cleric,11,Spellcasting Progression,spell_progression,You gain access to 6th-level spell slots and additional spell slots overall.,no,no,yes,Gain 6th-level spell slots.,Prepare additional spells as your level and Wisdom increase.,,
+Cleric,12,Ability Score Improvement,ASI,"Increase one ability score by +2 or two scores by +1 each, or take a feat if allowed.",yes,no,no,,,,
+Cleric,13,Spellcasting Progression,spell_progression,You gain access to 7th-level spell slots and additional spell slots overall.,no,no,yes,Gain 7th-level spell slots.,Prepare additional spells as your level and Wisdom increase.,,
+Cleric,14,Destroy Undead (CR 3),core_feature,"When you successfully Turn Undead, undead of challenge rating 3 or lower are destroyed instead of turned.",no,no,no,,,,
+Cleric,15,Spellcasting Progression,spell_progression,You gain access to 8th-level spell slots and additional spell slots overall.,no,no,yes,Gain 8th-level spell slots.,Prepare additional spells as your level and Wisdom increase.,,
+Cleric,16,Ability Score Improvement,ASI,"Increase one ability score by +2 or two scores by +1 each, or take a feat if allowed.",yes,no,no,,,,
+Cleric,17,Destroy Undead (CR 4),core_feature,"When you successfully Turn Undead, undead of challenge rating 4 or lower are destroyed instead of turned.",no,no,no,,,,
+Cleric,17,Domain Feature (Level 17),subclass_feature,You gain the 17th-level feature from your divine domain.,no,no,no,,,,The exact feature depends on your chosen domain.
+Cleric,17,Spellcasting Progression,spell_progression,You gain access to 9th-level spell slots and additional spell slots overall.,no,no,yes,Gain 9th-level spell slots.,Prepare additional spells as your level and Wisdom increase.,,
+Cleric,19,Ability Score Improvement,ASI,"Increase one ability score by +2 or two scores by +1 each, or take a feat if allowed.",yes,no,no,,,,
+Cleric,20,Divine Intervention Improvement,core_feature,"When you use Divine Intervention, it automatically succeeds; no roll required.",no,no,no,,,,You no longer need to roll to determine whether your deity intervenes.
+Druid,1,Druidic,core_feature,You know the secret druidic language and can leave hidden messages that only other druids can decode.,no,no,no,,,,
+Druid,1,Spellcasting,core_feature,You cast druid spells using Wisdom and start with several cantrips and 1st-level spells prepared.,no,no,yes,Gain 1st-level spell slots; see druid spellcasting table.,You prepare druid spells each day based on your level and Wisdom.,2,Exact slots and preparation rules follow the druid spellcasting table.
+Druid,2,Wild Shape,core_feature,"As an action you can magically assume the shape of a beast you have seen, a limited number of times per rest with restrictions based on challenge rating and movement modes.",no,no,no,,,,Initially limited to low-CR beasts without flying or swimming; improves at higher levels.
+Druid,2,Druid Circle,subclass_feature,Choose a druid circle that reflects your approach to nature; it grants additional features at higher levels.,no,no,no,,,,Refer to your chosen circle for its specific features.
+Druid,3,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 2nd-level spell slots and more total slots.",no,no,yes,Gain 2nd-level spell slots.,You can prepare additional druid spells as your level and Wisdom increase.,,See druid spellcasting table for exact slots.
+Druid,4,"Wild Shape Improvement (CR 1/2, no flying)",core_feature,You can now transform into beasts of up to challenge rating 1/2 that lack a flying speed.,no,no,no,,,,Swimming movement becomes available at this tier if your table follows PHB guidance.
+Druid,4,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two scores by 1 each, or take a feat if your campaign uses feats.",yes,no,no,,,,
+Druid,5,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 3rd-level spell slots and more total slots.",no,no,yes,Gain 3rd-level spell slots.,You can prepare additional druid spells as your level and Wisdom increase.,,
+Druid,6,Circle Feature (Level 6),subclass_feature,You gain the 6th-level feature from your chosen druid circle.,no,no,no,,,,Details depend on which circle you selected.
+Druid,7,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 4th-level spell slots and more total slots.",no,no,yes,Gain 4th-level spell slots.,You can prepare additional druid spells as your level and Wisdom increase.,,
+Druid,8,"Wild Shape Improvement (CR 1, flying allowed)",core_feature,"You can now transform into beasts of up to challenge rating 1, including creatures with a flying speed.",no,no,no,,,,This represents reaching the peak of normal beast forms.
+Druid,8,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two scores by 1 each, or take a feat if your campaign uses feats.",yes,no,no,,,,
+Druid,9,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 5th-level spell slots and more total slots.",no,no,yes,Gain 5th-level spell slots.,You can prepare additional druid spells as your level and Wisdom increase.,,
+Druid,10,Circle Feature (Level 10),subclass_feature,You gain the 10th-level feature from your chosen druid circle.,no,no,no,,,,Details depend on which circle you selected.
+Druid,11,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 6th-level spell slots and more total slots.",no,no,yes,Gain 6th-level spell slots.,You can prepare additional druid spells as your level and Wisdom increase.,,
+Druid,12,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two scores by 1 each, or take a feat if your campaign uses feats.",yes,no,no,,,,
+Druid,13,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 7th-level spell slots and more total slots.",no,no,yes,Gain 7th-level spell slots.,You can prepare additional druid spells as your level and Wisdom increase.,,
+Druid,14,Circle Feature (Level 14),subclass_feature,You gain the 14th-level feature from your chosen druid circle.,no,no,no,,,,Details depend on which circle you selected.
+Druid,15,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 8th-level spell slots and more total slots.",no,no,yes,Gain 8th-level spell slots.,You can prepare additional druid spells as your level and Wisdom increase.,,
+Druid,16,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two scores by 1 each, or take a feat if your campaign uses feats.",yes,no,no,,,,
+Druid,17,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 9th-level spell slots and more total slots.",no,no,yes,Gain 9th-level spell slots.,You can prepare additional druid spells as your level and Wisdom increase.,,
+Druid,18,Timeless Body,core_feature,Your body ages far more slowly; for every decade that passes your body only shows the effects of a year of aging.,no,no,no,,,,This is mostly narrative but can matter in long-running campaigns.
+Druid,18,Beast Spells,core_feature,"You can now cast many of your druid spells while using Wild Shape, provided the spell has no material components or those components are built into your form.",no,no,no,,,,You still follow normal spellcasting limits and concentration rules.
+Druid,19,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two scores by 1 each, or take a feat if your campaign uses feats.",yes,no,no,,,,
+Druid,20,Archdruid,core_feature,You can use Wild Shape an unlimited number of times and ignore many material components for your druid spells that lack a gold cost.,no,no,no,,,,Represents your full attunement to nature and its magic.
+Fighter,1,Fighting Style,core_feature,"Choose a combat style that grants a small but constant bonus to a particular way of fighting such as archery, defense, dueling, or two-weapon combat.",no,no,no,,,,
+Fighter,1,Second Wind,core_feature,You can use a bonus action to catch your breath and regain a small amount of hit points once per short or long rest.,no,no,no,,,,
+Fighter,2,Action Surge (1 use),core_feature,"You can briefly push yourself beyond normal limits, taking one additional action on your turn a limited number of times between rests.",no,no,no,,,,
+Fighter,3,Martial Archetype,subclass_feature,Choose a martial archetype that defines your fighting approach; it grants additional features at higher levels.,no,no,no,,,,"Examples include champions, tactical masters, and magical knights."
+Fighter,4,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1, or take a feat if your campaign uses feats.",yes,no,no,,,,
+Fighter,5,Extra Attack (2 attacks),core_feature,When you take the Attack action on your turn you can make two weapon attacks instead of one.,no,yes,no,,,,
+Fighter,6,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1, or take a feat.",yes,no,no,,,,
+Fighter,7,Archetype Feature (Level 7),subclass_feature,You gain the 7th-level feature from your chosen martial archetype.,no,no,no,,,,"Not every archetype uses this exact level in official material, but this slot is reserved for subclass growth."
+Fighter,8,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1, or take a feat.",yes,no,no,,,,
+Fighter,9,Indomitable (1 use),core_feature,"You can reroll a failed saving throw using your fighting spirit, but must use the new result.",no,no,no,,,,You gain additional uses at higher levels.
+Fighter,10,Archetype Feature (Level 10),subclass_feature,You gain the 10th-level feature from your chosen martial archetype.,no,no,no,,,,
+Fighter,11,Extra Attack (3 attacks),core_feature,When you take the Attack action on your turn you can make three weapon attacks instead of one.,no,yes,no,,,,This improves the Extra Attack feature from 5th level.
+Fighter,12,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1, or take a feat.",yes,no,no,,,,
+Fighter,13,Indomitable (2 uses),core_feature,You can now use your Indomitable feature twice between long rests.,no,no,no,,,,
+Fighter,14,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1, or take a feat.",yes,no,no,,,,
+Fighter,15,Archetype Feature (Level 15),subclass_feature,You gain the 15th-level feature from your chosen martial archetype.,no,no,no,,,,
+Fighter,16,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1, or take a feat.",yes,no,no,,,,
+Fighter,17,Action Surge (2 uses),core_feature,You can now use Action Surge twice between short or long rests.,no,no,no,,,,
+Fighter,18,Archetype Feature (Level 18),subclass_feature,You gain the 18th-level feature from your chosen martial archetype if it provides one.,no,no,no,,,,Some archetypes may not offer a feature at this level.
+Fighter,19,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1, or take a feat.",yes,no,no,,,,
+Fighter,20,Indomitable (3 uses),core_feature,You can now use your Indomitable feature three times between long rests.,no,no,no,,,,
+Monk,1,Martial Arts,core_feature,"You master unarmed combat and simple monk weapons, using Dexterity for attacks and dealing improved martial arts damage while unarmored and unshielded.",no,no,no,,,,
+Monk,1,Unarmored Defense,core_feature,"Your training lets you rely on agility and focus for protection, giving you an AC based on Dexterity and Wisdom when not wearing armor or using a shield.",no,no,no,,,,
+Monk,2,Ki,core_feature,"You gain a pool of ki points you can spend on special techniques like flurries of strikes, sudden dashes, or brief defensive stances.",no,no,no,,,,"Covers Flurry of Blows, Patient Defense, Step of the Wind-style options."
+Monk,2,Unarmored Movement,core_feature,"Your speed increases while you fight unarmored, improving further as you level.",no,no,no,,,,
+Monk,3,Monastic Tradition,subclass_feature,"You choose a monastic path, gaining features that shape your combat style and mystical techniques.",no,no,no,,,,
+Monk,3,Deflect Missiles,core_feature,"You can use your reaction to reduce the damage from a ranged weapon attack, sometimes catching and returning the projectile.",no,no,no,,,,
+Monk,4,Ability Score Improvement,ASI,"Increase one ability by 2 or two abilities by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Monk,4,Slow Fall,core_feature,You can use your reaction to reduce fall damage by a large amount thanks to your training.,no,no,no,,,,
+Monk,5,Extra Attack,core_feature,"When you take the Attack action on your turn, you can make two attacks instead of one.",no,yes,no,,,,
+Monk,5,Stunning Strike,core_feature,"You can channel ki through your blows, forcing a creature you hit to save or be stunned for a short time.",no,no,no,,,,
+Monk,6,Ki-Empowered Strikes,core_feature,Your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks.,no,no,no,,,,
+Monk,6,Monastic Tradition Feature (Level 6),subclass_feature,You gain the 6th-level feature from your chosen monastic tradition.,no,no,no,,,,
+Monk,7,Evasion,core_feature,"You can nimbly dodge out of area effects, taking little or no damage on successful saves.",no,no,no,,,,
+Monk,7,Stillness of Mind,core_feature,You can use an action to end an effect on yourself that is causing you to be charmed or frightened.,no,no,no,,,,
+Monk,8,Ability Score Improvement,ASI,"Increase one ability by 2 or two abilities by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Monk,9,Unarmored Movement Improvement,core_feature,Your mobility reaches supernatural levels; while unarmored you can briefly run up walls or across liquid surfaces.,no,no,no,,,,
+Monk,10,Purity of Body,core_feature,"Your ki sustains you, making you immune to disease and the effects of poison.",no,no,no,,,,
+Monk,11,Monastic Tradition Feature (Level 11),subclass_feature,You gain the 11th-level feature from your chosen monastic tradition.,no,no,no,,,,
+Monk,12,Ability Score Improvement,ASI,"Increase one ability by 2 or two abilities by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Monk,13,Tongue of Sun and Moon,core_feature,"Through ki and meditation you can understand all spoken languages, and most creatures can understand you when you speak.",no,no,no,,,,
+Monk,14,Diamond Soul,core_feature,Your mastery of ki grants you proficiency in all saving throws and the ability to reroll failed saves by spending ki.,no,no,no,,,,
+Monk,15,Timeless Body,core_feature,"Your ki slows your aging and reduces the need for food, drink, and rest.",no,no,no,,,,
+Monk,16,Ability Score Improvement,ASI,"Increase one ability by 2 or two abilities by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Monk,17,Monastic Tradition Feature (Level 17),subclass_feature,You gain the 17th-level feature from your chosen monastic tradition.,no,no,no,,,,
+Monk,18,Empty Body,core_feature,"You can spend ki to become briefly invisible and resistant to many forms of damage, or even project your spirit to other planes.",no,no,no,,,,
+Monk,19,Ability Score Improvement,ASI,"Increase one ability by 2 or two abilities by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Monk,20,Perfect Self,core_feature,"When you enter a fight with little ki remaining, your mastery restores some of it, ensuring you always have energy for key techniques.",no,no,no,,,,
+Paladin,1,Divine Sense,core_feature,"You can open your awareness to detect strong evil or good a limited number of times per long rest, sensing such presences nearby.",no,no,no,,,,
+Paladin,1,Lay on Hands,core_feature,"You hold a pool of healing that replenishes on a long rest; as an action, you can restore hit points or cure certain conditions by spending points from this pool.",no,no,no,,,,
+Paladin,2,Fighting Style,core_feature,"Choose a combat style that grants a steady bonus such as improved defense, archery, or two-weapon fighting.",no,no,no,,,,
+Paladin,2,Spellcasting,core_feature,"You learn to cast paladin spells using Charisma, gaining access to 1st-level spell slots.",no,no,yes,Gain 1st-level paladin spell slots; see paladin spellcasting table.,You prepare paladin spells each day based on level and Charisma.,0,
+Paladin,2,Divine Smite,core_feature,"When you hit a creature with a melee weapon attack, you can expend a spell slot to deal radiant damage in addition to the weapon's damage.",no,no,no,,,,Damage scales with spell slot level; especially potent against undead and fiends.
+Paladin,3,Divine Health,core_feature,"Your faith shields your body, making you immune to disease.",no,no,no,,,,
+Paladin,3,Sacred Oath,subclass_feature,"You swear a sacred oath that shapes your paladin magic and behavior, granting oath-specific features and spells.",no,no,no,,,,"Choose an oath such as Devotion, Ancients, or Vengeance."
+Paladin,4,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1, or take a feat.",yes,no,no,,,,
+Paladin,5,Extra Attack,core_feature,"When you take the Attack action on your turn, you can make two melee weapon attacks instead of one.",no,yes,no,,,,
+Paladin,5,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 2nd-level spell slots and more total slots.",no,no,yes,Gain 2nd-level paladin spell slots.,,,
+Paladin,6,Aura of Protection,core_feature,You and friendly creatures close to you add your Charisma modifier to saving throws while you are conscious.,no,no,no,,,,Aura radius increases at higher levels in some variants.
+Paladin,7,Oath Feature (Level 7),subclass_feature,You gain the 7th-level feature from your chosen sacred oath.,no,no,no,,,,
+Paladin,8,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1, or take a feat.",yes,no,no,,,,
+Paladin,9,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 3rd-level spell slots and more total slots.",no,no,yes,Gain 3rd-level paladin spell slots.,,,
+Paladin,10,Aura of Courage,core_feature,You and friendly creatures close to you cannot be frightened while you are conscious.,no,no,no,,,,
+Paladin,11,Improved Divine Smite,core_feature,Your weapon strikes are so suffused with radiant power that they deal extra radiant damage on every hit.,no,no,no,,,,Stacks with Divine Smite when you expend spell slots.
+Paladin,12,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1, or take a feat.",yes,no,no,,,,
+Paladin,13,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 4th-level spell slots and more total slots.",no,no,yes,Gain 4th-level paladin spell slots.,,,
+Paladin,14,Cleansing Touch,core_feature,You can end certain spells or similar effects on yourself or others by touching the creature a limited number of times per long rest.,no,no,no,,,,Functions like a built-in dispel against spells on a creature.
+Paladin,15,Oath Feature (Level 15),subclass_feature,You gain the 15th-level feature from your chosen sacred oath.,no,no,no,,,,
+Paladin,16,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1, or take a feat.",yes,no,no,,,,
+Paladin,17,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 5th-level spell slots and more total slots.",no,no,yes,Gain 5th-level paladin spell slots.,,,
+Paladin,18,Aura Improvements,core_feature,"The radius of your protective and courage auras expands, allowing you to shield more allies.",no,no,no,,,,"Uses the same auras you gained earlier, but at a greater radius."
+Paladin,19,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1, or take a feat.",yes,no,no,,,,
+Paladin,20,Oath Feature (Level 20),subclass_feature,You gain the 20th-level capstone feature from your chosen sacred oath.,no,no,no,,,,Often a powerful transformation or aura that represents your perfect devotion.
+Ranger,1,Favored Enemy,core_feature,"You choose types of creatures or a specific foe you excel at hunting, gaining bonuses to track them and recall information about them.",no,no,no,,,,
+Ranger,1,Natural Explorer,core_feature,"You are especially adept in a chosen type of terrain, gaining benefits to navigation, foraging, and certain checks while traveling there.",no,no,no,,,,
+Ranger,2,Fighting Style,core_feature,"Choose a combat style such as archery, defense, or two-weapon fighting that grants a small but steady bonus.",no,no,no,,,,
+Ranger,2,Spellcasting,core_feature,"You learn to cast ranger spells using Wisdom, gaining access to 1st-level spell slots.",no,no,yes,Gain 1st-level ranger spell slots.,You know a limited number of ranger spells as shown on the ranger table.,0,
+Ranger,2,Spellcasting Progression,spell_progression,Your spellcasting begins with a small pool of 1st-level ranger slots.,no,no,yes,1st-level slots only at this stage.,,,
+Ranger,3,Ranger Archetype,subclass_feature,"Choose an archetype that reflects your hunting style, such as a relentless stalker, beast master, or deep wanderer.",no,no,no,,,,
+Ranger,3,Primeval Awareness,core_feature,"You can expend a spell slot to sense the presence of certain creature types in a region around you, though not their exact location.",no,no,no,,,,Useful for foreshadowing powerful foes.
+Ranger,4,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1, or take a feat.",yes,no,no,,,,
+Ranger,5,Extra Attack,core_feature,"When you take the Attack action on your turn, you can make two weapon attacks instead of one.",no,yes,no,,,,
+Ranger,5,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 2nd-level ranger spell slots.",no,no,yes,Gain 2nd-level ranger spell slots.,,,
+Ranger,6,Favored Enemy Improvement,core_feature,"You can choose additional or more specialized favored enemies, strengthening your hunting focus.",no,no,no,,,,Exact structure depends on whether you use classic favored enemy or a variant.
+Ranger,7,Archetype Feature (Level 7),subclass_feature,You gain the 7th-level feature from your chosen ranger archetype.,no,no,no,,,,
+Ranger,8,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1, or take a feat.",yes,no,no,,,,
+Ranger,8,Land's Stride,core_feature,"Moving through nonmagical difficult terrain costs you no extra movement, and you resist being slowed by plants.",no,no,no,,,,Also grants advantages versus some plant-based magic.
+Ranger,9,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 3rd-level ranger spell slots.",no,no,yes,Gain 3rd-level ranger spell slots.,,,
+Ranger,10,Hide in Plain Sight,core_feature,"You can spend time to carefully camouflage yourself, making it much harder for others to detect you while you remain still.",no,no,no,,,,Modeled as a large bonus to Stealth checks while you stay motionless.
+Ranger,11,Archetype Feature (Level 11),subclass_feature,You gain the 11th-level feature from your chosen ranger archetype.,no,no,no,,,,
+Ranger,12,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1, or take a feat.",yes,no,no,,,,
+Ranger,13,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 4th-level ranger spell slots.",no,no,yes,Gain 4th-level ranger spell slots.,,,
+Ranger,14,Vanish,core_feature,You can use Hide as a bonus action on your turn and are harder to track when you choose to leave no trail.,no,no,no,,,,Synergizes strongly with stealth-focused builds.
+Ranger,15,Archetype Feature (Level 15),subclass_feature,You gain the 15th-level feature from your chosen ranger archetype.,no,no,no,,,,
+Ranger,16,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1, or take a feat.",yes,no,no,,,,
+Ranger,17,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 5th-level ranger spell slots.",no,no,yes,Gain 5th-level ranger spell slots.,,,
+Ranger,18,Feral Senses,core_feature,Your senses are so sharp that you can effectively perceive creatures that are invisible or hidden within a short range.,no,no,no,,,,Represents a kind of limited blindsense based on keen instincts.
+Ranger,19,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1, or take a feat.",yes,no,no,,,,
+Ranger,20,Foe Slayer,core_feature,Your connection to your prey reaches its peak; once per turn you can add your Wisdom modifier to an attack roll or damage roll against one of your favored enemies.,no,no,no,,,,A capstone that keeps your favored enemy relevant at all tiers of play.
+Rogue,1,Sneak Attack (1d6),core_feature,Once per turn you can deal extra damage when you hit a creature with an attack and meet the conditions for catching it off guard.,no,no,no,,,,Extra damage die increases at many later levels.
+Rogue,1,Expertise,core_feature,Choose two of your skill or tool proficiencies; your proficiency bonus is doubled for them.,no,no,no,,,,
+Rogue,1,Thieves' Cant,core_feature,"You know a secret mix of dialect, jargon, and ciphers that allows you to hide messages in ordinary conversation.",no,no,no,,,,
+Rogue,2,Cunning Action,core_feature,"You can use a bonus action each turn in combat to Dash, Disengage, or Hide.",no,no,no,,,,
+Rogue,3,Roguish Archetype,subclass_feature,"Choose a roguish archetype that focuses your talents such as thief, assassin, or arcane trickster.",no,no,no,,,,
+Rogue,3,Sneak Attack (2d6),core_feature,Your Sneak Attack damage increases to 2d6.,no,no,no,,,,
+Rogue,4,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1, or take a feat.",yes,no,no,,,,
+Rogue,5,Uncanny Dodge,core_feature,When an attacker you can see hits you with an attack you can use your reaction to halve the damage.,no,no,no,,,,
+Rogue,5,Sneak Attack (3d6),core_feature,Your Sneak Attack damage increases to 3d6.,no,no,no,,,,
+Rogue,6,Expertise (More Skills),core_feature,You can choose two more of your proficiencies to gain the benefits of Expertise.,no,no,no,,,,
+Rogue,7,Evasion,core_feature,"When you make a Dexterity saving throw against an effect that allows half damage on a success, you instead take no damage on a success and only half on a failure.",no,no,no,,,,
+Rogue,7,Sneak Attack (4d6),core_feature,Your Sneak Attack damage increases to 4d6.,no,no,no,,,,
+Rogue,8,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1, or take a feat.",yes,no,no,,,,
+Rogue,9,Archetype Feature (Level 9),subclass_feature,You gain the 9th-level feature from your chosen roguish archetype.,no,no,no,,,,
+Rogue,9,Sneak Attack (5d6),core_feature,Your Sneak Attack damage increases to 5d6.,no,no,no,,,,
+Rogue,10,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1, or take a feat.",yes,no,no,,,,
+Rogue,11,Reliable Talent,core_feature,"When you make an ability check that adds your proficiency bonus, a very low d20 roll is treated as a solid result instead.",no,no,no,,,,Commonly implemented by treating rolls below a certain threshold as that threshold.
+Rogue,11,Sneak Attack (6d6),core_feature,Your Sneak Attack damage increases to 6d6.,no,no,no,,,,
+Rogue,12,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1, or take a feat.",yes,no,no,,,,
+Rogue,13,Archetype Feature (Level 13),subclass_feature,You gain the 13th-level feature from your chosen roguish archetype.,no,no,no,,,,
+Rogue,13,Sneak Attack (7d6),core_feature,Your Sneak Attack damage increases to 7d6.,no,no,no,,,,
+Rogue,14,Blindsense,core_feature,You gain a limited radius within which you can sense hidden or invisible creatures as long as you can hear.,no,no,no,,,,
+Rogue,14,Sneak Attack (8d6),core_feature,Your Sneak Attack damage increases to 8d6.,no,no,no,,,,
+Rogue,15,Slippery Mind,core_feature,"Your mental defenses improve, granting you proficiency in Wisdom saving throws.",no,no,no,,,,
+Rogue,15,Sneak Attack (9d6),core_feature,Your Sneak Attack damage increases to 9d6.,no,no,no,,,,
+Rogue,16,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1, or take a feat.",yes,no,no,,,,
+Rogue,17,Archetype Feature (Level 17),subclass_feature,You gain the 17th-level feature from your chosen roguish archetype.,no,no,no,,,,
+Rogue,17,Sneak Attack (10d6),core_feature,Your Sneak Attack damage increases to 10d6.,no,no,no,,,,
+Rogue,18,Elusive,core_feature,"Your experience makes you extremely hard to pin down; while you are not incapacitated, no attack roll against you has advantage.",no,no,no,,,,
+Rogue,19,Ability Score Improvement,ASI,"You can raise one ability score by 2 or two different scores by 1, or take a feat.",yes,no,no,,,,
+Rogue,20,Stroke of Luck,core_feature,"Once per short rest you can turn a crucial failure into success, either making a missed attack hit or treating a failed ability check as if you had rolled very high.",no,no,no,,,,
+Sorcerer,1,Spellcasting,core_feature,"You cast sorcerer spells using Charisma, knowing a small set of spells that you can cast with your spell slots.",no,no,yes,Gain 1st-level sorcerer spell slots.,Learn several 1st-level sorcerer spells from the class list.,4,Use the sorcerer spellcasting table for exact slots and spells known.
+Sorcerer,1,Sorcerous Origin,subclass_feature,"You choose the magical source of your power, such as a draconic bloodline or wild magic surge.",no,no,no,,,,
+Sorcerer,2,Font of Magic,core_feature,You gain sorcery points that you can spend to create extra spell slots or convert slots back into sorcery points.,no,no,no,,,,
+Sorcerer,3,Metamagic,core_feature,"You learn techniques to twist your spells, such as extending duration, doubling targets, or casting more subtly.",no,no,no,,,,You learn more metamagic options at higher levels.
+Sorcerer,3,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 2nd-level sorcerer spell slots.",no,no,yes,Gain 2nd-level sorcerer spell slots.,,,
+Sorcerer,4,Ability Score Improvement,ASI,"Increase one ability score by 2 or two scores by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Sorcerer,5,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 3rd-level sorcerer spell slots.",no,no,yes,Gain 3rd-level sorcerer spell slots.,,,
+Sorcerer,6,Sorcerous Origin Feature (Level 6),subclass_feature,You gain the 6th-level feature from your chosen sorcerous origin.,no,no,no,,,,
+Sorcerer,7,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 4th-level sorcerer spell slots.",no,no,yes,Gain 4th-level sorcerer spell slots.,,,
+Sorcerer,8,Ability Score Improvement,ASI,"Increase one ability score by 2 or two scores by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Sorcerer,9,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 5th-level sorcerer spell slots.",no,no,yes,Gain 5th-level sorcerer spell slots.,,,
+Sorcerer,10,Metamagic (Additional),core_feature,"You learn another metamagic option, broadening the ways you can modify your spells.",no,no,no,,,,
+Sorcerer,11,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 6th-level sorcerer spell slots.",no,no,yes,Gain 6th-level sorcerer spell slots.,,,
+Sorcerer,12,Ability Score Improvement,ASI,"Increase one ability score by 2 or two scores by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Sorcerer,13,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 7th-level sorcerer spell slots.",no,no,yes,Gain 7th-level sorcerer spell slots.,,,
+Sorcerer,14,Sorcerous Origin Feature (Level 14),subclass_feature,You gain the 14th-level feature from your chosen sorcerous origin.,no,no,no,,,,
+Sorcerer,15,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 8th-level sorcerer spell slots.",no,no,yes,Gain 8th-level sorcerer spell slots.,,,
+Sorcerer,16,Ability Score Improvement,ASI,"Increase one ability score by 2 or two scores by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Sorcerer,17,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 9th-level sorcerer spell slots.",no,no,yes,Gain 9th-level sorcerer spell slots.,,,
+Sorcerer,18,Sorcerous Origin Feature (Level 18),subclass_feature,You gain the 18th-level feature from your chosen sorcerous origin.,no,no,no,,,,
+Sorcerer,19,Ability Score Improvement,ASI,"Increase one ability score by 2 or two scores by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Sorcerer,20,Sorcerous Restoration,core_feature,You regain a few expended sorcery points each time you finish a short rest.,no,no,no,,,,
+Warlock,1,Otherworldly Patron,core_feature,"You form a pact with a powerful being such as a fiend, archfey, or alien entity, gaining origin-themed features at later levels.",no,no,no,,,,
+Warlock,1,Pact Magic,core_feature,You gain a small number of spell slots that all use the same level and refresh on a short rest instead of a long rest.,no,no,yes,Gain 1st-level pact slots; see warlock spellcasting table.,Learn several 1st-level warlock spells from the class list.,2,Pact slots increase in level over time but never exceed 5th level.
+Warlock,2,Eldritch Invocations,core_feature,"You learn special invocations that grant at-will abilities, passive bonuses, or extra spells, fueled by your pact.",no,no,no,,,,You learn more invocations as you level and can swap some when you gain a level.
+Warlock,3,Pact Boon,core_feature,"You choose a boon such as a pact weapon, familiar, or grimoire, tailoring how your patron's power manifests.",no,no,no,,,,"Represents Pact of the Blade, Chain, or Tome-style options."
+Warlock,3,Pact Magic Progression,spell_progression,Your pact slots increase in level and number as shown on the warlock table.,no,no,yes,Pact slots become 2nd-level at this tier.,Gain an additional warlock spell known.,,
+Warlock,4,Ability Score Improvement,ASI,"Increase one ability score by 2 or two abilities by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Warlock,5,Pact Magic Progression,spell_progression,Your pact slots become higher level and you know more spells.,no,no,yes,Pact slots become 3rd-level at this tier.,Gain an additional warlock spell known.,,
+Warlock,6,Otherworldly Patron Feature (Level 6),subclass_feature,You gain the 6th-level feature from your chosen patron.,no,no,no,,,,
+Warlock,7,Pact Magic Progression,spell_progression,"Your pact slots upgrade again, and you know more spells.",no,no,yes,Pact slots become 4th-level at this tier.,Gain an additional warlock spell known.,,
+Warlock,8,Ability Score Improvement,ASI,"Increase one ability score by 2 or two abilities by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Warlock,9,Pact Magic Progression,spell_progression,"Your pact slots reach their maximum level, and you know more spells.",no,no,yes,Pact slots become 5th-level and remain that way from now on.,Gain an additional warlock spell known.,,
+Warlock,10,Otherworldly Patron Feature (Level 10),subclass_feature,You gain the 10th-level feature from your chosen patron.,no,no,no,,,,
+Warlock,11,Mystic Arcanum (6th Level),core_feature,You gain a special high-level spell you can cast once per long rest without using your pact slots.,no,no,no,,,,You choose a 6th-level warlock spell as your first mystic arcanum.
+Warlock,12,Ability Score Improvement,ASI,"Increase one ability score by 2 or two abilities by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Warlock,13,Mystic Arcanum (7th Level),core_feature,You gain a 7th-level warlock spell that you can cast once per long rest without using pact slots.,no,no,no,,,,Each arcanum is a fixed spell choice unless your DM allows retraining.
+Warlock,14,Otherworldly Patron Feature (Level 14),subclass_feature,You gain the 14th-level feature from your chosen patron.,no,no,no,,,,
+Warlock,15,Mystic Arcanum (8th Level),core_feature,You gain an 8th-level warlock spell that you can cast once per long rest without using pact slots.,no,no,no,,,,
+Warlock,16,Ability Score Improvement,ASI,"Increase one ability score by 2 or two abilities by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Warlock,17,Mystic Arcanum (9th Level),core_feature,You gain a 9th-level warlock spell that you can cast once per long rest without using pact slots.,no,no,no,,,,
+Warlock,18,Eldritch Master (Preparation),core_feature,"Your connection to your patron deepens, preparing you for the ability to quickly restore your magic.",no,no,no,,,,This row exists mainly to reflect the progression; the main benefit is at 20th level.
+Warlock,19,Ability Score Improvement,ASI,"Increase one ability score by 2 or two abilities by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Warlock,20,Eldritch Master,core_feature,You can briefly commune with your patron to instantly regain all expended pact magic slots once per long rest.,no,no,no,,,,
+Wizard,1,Spellcasting,core_feature,"You prepare and cast wizard spells using Intelligence, starting with cantrips and 1st-level spell slots.",no,no,yes,Gain 1st-level spell slots.,Start with several 1st-level wizard spells in your spellbook.,3,Use the wizard spellcasting table for exact slots and preparation counts.
+Wizard,1,Arcane Recovery,core_feature,"Once per day after a short rest, you recover some expended spell slots.",no,no,no,,,,
+Wizard,2,Arcane Tradition,subclass_feature,Choose a school of magic to specialize in; it grants features at higher levels.,no,no,no,,,,
+Wizard,2,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting more 1st-level slots and access to 2nd-level spell slots.",no,no,yes,Gain 2nd-level spell slots.,You add more spells to your spellbook as you level.,,
+Wizard,3,Spellcasting Progression,spell_progression,"You gain additional spell slots, including more 2nd-level slots and your first 3rd-level slots.",no,no,yes,Gain 3rd-level spell slots.,,,
+Wizard,4,Ability Score Improvement,ASI,"Increase one ability score by 2 or two ability scores by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Wizard,5,Spellcasting Progression,spell_progression,"Your spellcasting advances, increasing your number of spell slots and granting 3rd-level spell slots in greater quantity.",no,no,yes,Improve 3rd-level spell slots.,,,
+Wizard,6,Arcane Tradition Feature (Level 6),subclass_feature,You gain the 6th-level feature from your chosen school of magic.,no,no,no,,,,
+Wizard,7,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 4th-level spell slots.",no,no,yes,Gain 4th-level spell slots.,,,
+Wizard,8,Ability Score Improvement,ASI,"Increase one ability score by 2 or two ability scores by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Wizard,9,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 5th-level spell slots.",no,no,yes,Gain 5th-level spell slots.,,,
+Wizard,10,Arcane Tradition Feature (Level 10),subclass_feature,You gain the 10th-level feature from your chosen school of magic.,no,no,no,,,,
+Wizard,11,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 6th-level spell slots.",no,no,yes,Gain 6th-level spell slots.,,,
+Wizard,12,Ability Score Improvement,ASI,"Increase one ability score by 2 or two ability scores by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Wizard,13,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 7th-level spell slots.",no,no,yes,Gain 7th-level spell slots.,,,
+Wizard,14,Arcane Tradition Feature (Level 14),subclass_feature,You gain the 14th-level feature from your chosen school of magic.,no,no,no,,,,
+Wizard,15,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 8th-level spell slots.",no,no,yes,Gain 8th-level spell slots.,,,
+Wizard,16,Ability Score Improvement,ASI,"Increase one ability score by 2 or two ability scores by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Wizard,17,Spellcasting Progression,spell_progression,"Your spellcasting advances, granting access to 9th-level spell slots.",no,no,yes,Gain 9th-level spell slots.,,,
+Wizard,18,Spell Mastery,core_feature,You choose low-level wizard spells that you can cast at will without expending spell slots.,no,no,no,,,,
+Wizard,19,Ability Score Improvement,ASI,"Increase one ability score by 2 or two ability scores by 1 each, or take a feat if allowed.",yes,no,no,,,,
+Wizard,20,Signature Spells,core_feature,You choose a couple of 3rd-level spells as your signature spells; you always have them prepared and can cast them once each without using a spell slot.,no,no,no,,,,
